@@ -5,6 +5,7 @@
   "main": "public/index.html",
   "scripts": {
     "start": "parcel",
+    "build": "parcel build --public-url ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
